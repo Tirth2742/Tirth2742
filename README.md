@@ -6,7 +6,7 @@
 
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" >, I'm Tirth Patel
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 <a href="https://www.linkedin.com/in/tirth-patel-b81920249/">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
@@ -19,7 +19,7 @@
 <br>
 
 ## About Me.😊
-- 🔭 A CSE Junior at VIT Bhopal.
+- 🔭 A CSE Student at VIT Bhopal.
 - 🌱 I’m currently learning web development and machine learning
 - 👯 I’m looking to collaborate on projects including HTML,CSS and Javascript .
 - 📫 How to reach me: tirthofficial2742@gmail.com
