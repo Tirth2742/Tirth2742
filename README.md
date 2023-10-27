@@ -12,9 +12,9 @@
 <a href="https://www.linkedin.com/in/tirth-patel-b81920249/">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/TirthPa18786058?s=09">
+<!-- <a href="https://twitter.com/TirthPa18786058?s=09">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 
 <a href="mailto:tirthofficial2742@gmail.com"><img align="left" width="35px" src="https://i.ibb.co/827XzWZ/red-mail.png" alt="red-mail" border="0"></a>
 <br>
