@@ -9,10 +9,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" >, I'm Tirth Patel
 
 
-<a href="https://www.linkedin.com/in/tirth-patel-b81920249/">
+<!--<a href="https://www.linkedin.com/in/tirth-patel-b81920249/">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
 </a>
-<!-- <a href="https://twitter.com/TirthPa18786058?s=09">
+ <a href="https://twitter.com/TirthPa18786058?s=09">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 
